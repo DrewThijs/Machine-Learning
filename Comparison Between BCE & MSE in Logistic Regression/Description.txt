@@ -1,2 +1,0 @@
-Description
-In this project, I would propose two methods including Mean Square Error & Binary Cross Entropy in Logistic Regression, then I evaluate its accuracy rate in the end of two projects.
